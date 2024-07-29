@@ -13,7 +13,7 @@ def pop(stack):
     if(isEmpty(stack)):
         return 'stack is already empty'
 
-    return stack.pop()
+    return stack.pop(0)
 
 def peek(stack):
     if(isEmpty(stack)):
@@ -24,12 +24,12 @@ def peek(stack):
 
 
 stack = createStack()
-push(stack, str(10))
-push(stack, str(20))
-push(stack, str(30))
-print(stack)
+push(stack, 10)
+push(stack, 2)
+push(stack, 3)
+push(stack, 4)
 
-pop(stack)
 print(stack)
-
 print(peek(stack))
+print(pop(stack))
+print(stack)

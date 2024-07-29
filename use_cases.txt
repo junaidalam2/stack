@@ -1,0 +1,14 @@
+Use Cases:
+
+Daily Temperatures: Learn how to use a stack to find the number of days until a warmer temperature.
+Evaluate Reverse Polish Notation: Decode and evaluate expressions in Reverse Polish Notation using stacks.
+Valid Parentheses: Use a stack to check for the validity of parentheses in a string.
+Min Stack: Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+Generate Parentheses: Discover how to generate all combinations of well-formed parentheses with stacks.
+Car Fleet: Understand how to apply stacks to solve complex problems like the car fleet challenge.
+Minimum Remove to Make Valid Parentheses: Use stacks to balance parentheses in a string efficiently.
+Largest Rectangle in Histogram: Tackle this classic problem with a stack-based approach to find the largest rectangular area.
+Longest Valid Parentheses: Learn to use stacks to find the length of the longest valid parentheses substring.
+Max Stack: Design a max stack that supports all regular stack operations along with retrieving the stack's maximum element.
+
+Source: https://www.freecodecamp.org/news/intro-to-stacks-data-structure-and-algorithm-tutorial/

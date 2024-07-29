@@ -24,6 +24,7 @@ def peek(stack):
     return stack[len(stack) - 1]
 
 
+
 stack = createStack()
 push(stack, str(10))
 push(stack, str(20))
